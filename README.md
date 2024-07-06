@@ -15,3 +15,4 @@ This project is a modern YouTube clone application built using React JS and Mate
 - **Axios**: For making API requests.
 - **React Router**: For navigation and routing within the application.
 - **YouTube API**: For fetching video data and search results.
+![alt text](image.png)
